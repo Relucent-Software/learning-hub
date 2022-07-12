@@ -4,9 +4,9 @@ title: Docker Introduction
 
 Docker refers to three main principles:
 
-- The Docker Image
-- The Docker Registry
-- The Docker Container
+- [The Docker Image](#the-docker-image)
+- [The Docker Registry](#the-docker-registry)
+- [The Docker Container](#the-docker-container)
   > The Docker Container is the most common concept referred to as "Docker"
 
 Docker has, at one of its core concepts, an intended structure:
